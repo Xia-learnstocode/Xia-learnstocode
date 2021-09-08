@@ -7,6 +7,8 @@ When her head isn’t in the clouds, she has designed, prototyped & pitched awar
 
 Let's go on an adventure: https://www.imxia.me
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=xia-learnstocode)]
-[![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xia-learnstocode)]
+[![My Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xia-learnstocode&theme=dark&show_icons=true)]
+
+
+
 
